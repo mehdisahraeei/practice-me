@@ -1,5 +1,8 @@
 class BinaryConv:
 
+
+    #functions
+
     def __init__(self):
         self.default = "input must be string!"
 
