@@ -25,3 +25,13 @@ Explore the projects below — each folder contains its own code, notebooks, and
 
 - 🌐 [Sitecode Generator](https://github.com/mehdisahraeei/practice-me/tree/master/practices_me/sitecode%20generator)  
   A tool for generating site codes for network deployments.
+
+
+---
+
+## 📂 Project Organization & Roadmap
+
+With the continuous growth of this repository, upcoming updates will introduce a hierarchical structure with well-defined categories and subdirectories. This will enhance discoverability, maintainability, and overall user experience.
+
+Thank you for following along — more improvements are on the way!
+
